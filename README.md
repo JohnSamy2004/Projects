@@ -7,7 +7,8 @@ I made a light menu interface && a colorful menu interface with c language
 
 ### *A_Colorful_Menu*
 
-![VirtualBox_windows 7_03_04_2024_03_21_25](https://github.com/JohnSamy2004/my_projects/assets/136609635/20026507-6f00-44a0-8737-b083f192e201)
+![VirtualBox_windows 7_03_04_2024_03_20_31](https://github.com/JohnSamy2004/my_projects/assets/136609635/3d27c27f-e81d-461c-9dc0-8b85756181e5)
+
 
 
 ## Explaination:
