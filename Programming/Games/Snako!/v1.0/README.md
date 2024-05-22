@@ -1,4 +1,4 @@
-#  Hi Dear
+#  Hi Gamer ;)
 ### ```I wish you a nice time:)```
 
 This is a Snako! game 
