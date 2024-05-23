@@ -4,7 +4,7 @@
 This is a Snako! game 
 it's a snake game and made with python language
 
-There are code's game <Snako!.py> and the main file or execution file Snako! 
+There are code's game <Snako!.py> and the main file or execution file <Snako!> for linux and <Snako!.exe> for windows
 ```Enjoy ;)```
 
 ## ScreenShots:
