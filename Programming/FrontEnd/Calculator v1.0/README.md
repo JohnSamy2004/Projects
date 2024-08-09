@@ -1,6 +1,6 @@
 # Simple Calculator with Animations
 
-Hello, Bro!
+##Hello, Bro!
 
 This is a **simple frontend project** featuring a basic calculator with some stylish animations. The project includes:
 
