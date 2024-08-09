@@ -5,7 +5,6 @@ function AddToDisplay(input) {
 }
 
 function clear() {
-    console.log("Clear button clicked");
     display.value = "";
 }
 
