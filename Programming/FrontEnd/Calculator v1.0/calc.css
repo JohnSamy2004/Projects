@@ -1,0 +1,112 @@
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/photos/html-claculator.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100px 100px;
+    width: 100vw;
+    height: 100vh;
+    animation: movement 30s linear infinite;
+}
+
+@keyframes movement{
+    from{
+        background-position: 100% 0;
+    }
+    to{
+        background-position: 0 0;
+    }
+}
+
+
+body{
+    overflow: hidden;
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+}
+
+.calculator {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    max-width: 500px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 3px 3px 5px blueviolet, -3px -3px 5px yellow;
+    animation: zoomInOut 1s ease-out; /*here zoom In then zoom out*/
+}
+
+@keyframes zoomInOut {
+    0% {
+        transform: scale(0); /*size => 0% & opacity => 0*/
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.1); /*size => 110% & opacity => 100%*/
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1); /*size => 100% & opacity => 100%*/
+        opacity: 1;
+    }
+}
+
+
+#display {
+    width: 100%;
+    padding: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    border: none;
+    background-color: hsl(0, 13%, 20%);
+    color: white;
+    overflow: auto;
+}
+
+
+button {
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(53, 41, 41);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(34, 10, 255);
+}
+
+button:active {
+    background-color: rgb(166, 156, 253);
+}
+
+.op {
+    background-color: rgb(0, 182, 0);
+}
+
+.op:hover {
+    background-color: rgb(5, 218, 5);
+}
+
+.op:active {
+    background-color: rgb(0, 255, 0);
+    box-shadow: 3px 3px 5px blue, -3px -3px 5px blue;
+}
+
+
+#keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 15px;
+    column-gap: 0px;
+    padding: 25px;
+    width: 100%;
+}

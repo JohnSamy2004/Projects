@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="icon" type="image/png" href="/photos/calculator.png">
+    <link rel="stylesheet" href="calc.css">
+</head>
+<body>
+
+    <div class="image">
+        <div class="calculator">
+            <input id="display" readonly>
+            <div id="keys">
+                <button onclick="AddToDisplay('+')" class="op">+</button>
+                <button onclick="AddToDisplay('7')">7</button>
+                <button onclick="AddToDisplay('8')">8</button>
+                <button onclick="AddToDisplay('9')">9</button>
+                <button onclick="AddToDisplay('-')" class="op">-</button>
+                <button onclick="AddToDisplay('4')">4</button>
+                <button onclick="AddToDisplay('5')">5</button>
+                <button onclick="AddToDisplay('6')">6</button>
+                <button onclick="AddToDisplay('*')" class="op">×</button>
+                <button onclick="AddToDisplay('1')">1</button>
+                <button onclick="AddToDisplay('2')">2</button>
+                <button onclick="AddToDisplay('3')">3</button>
+                <button onclick="AddToDisplay('/')" class="op">/</button>
+                <button onclick="AddToDisplay('.')">.</button>
+                <button onclick="AddToDisplay('0')">0</button>
+                <button onclick="calc()">=</button>
+                <button onclick="clear()" class="op">C</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="calc.js"></script>
+</body>
+</html>
