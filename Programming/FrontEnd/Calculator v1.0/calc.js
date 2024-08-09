@@ -22,7 +22,7 @@ function calc() {
 document.addEventListener('keydown', function(event) {
     if (event.key === 'Enter') {
         calc();
-        event.preventDefault(); // لمنع التصرف الافتراضي مثل الإرسال
+        event.preventDefault();
     }
 });
 
