@@ -12,7 +12,8 @@ This is a **simple frontend project** featuring a basic calculator with some sty
 
 Here are some screenshots of the project:
 
-![Screenshot 1](path-to-image1)
+![Screenshot 1](![image](https://github.com/user-attachments/assets/44f3e521-818d-4ab0-a1b6-203280e9a9ac)
+)
 ![Screenshot 2](path-to-image2)
 
 I hope you like this simple yet visually appealing project!
