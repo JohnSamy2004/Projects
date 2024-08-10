@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/photos/html-claculator.jpg);
+    background-image: url("photos/html-calculator.jpg");
     background-repeat: repeat;
     background-position: center;
     background-attachment: fixed;
