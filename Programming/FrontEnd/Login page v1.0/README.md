@@ -28,8 +28,7 @@ This is a simple and responsive login page built using HTML and CSS. The design 
 Here are some screenshots of the login page:
 
 ### 1. Login Page Overview
-![Login Page Overview](./screenshots/login_page_overview.png)
+![Login Page Overview](![image](https://github.com/user-attachments/assets/7c9f6a83-ce6b-44dc-828a-0519046f3b28))
 
 ### 2. Responsive View
-![Responsive View](./screenshots/responsive_view.png)
-
+![Responsive View](![image](https://github.com/user-attachments/assets/6f4367af-4890-4938-aad9-e82aa6a4db44))
