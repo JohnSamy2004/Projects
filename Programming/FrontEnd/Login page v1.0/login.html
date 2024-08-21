@@ -5,21 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Page</title>
     <link rel="icon" type="image/png" href="photos/user.png">
+    <link rel="stylesheet" href="login.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body>
-    <div class="cover">
+    <div class="wrapper">
         <form>
             <h1>Login</h1>
 
-
             <div class="input-box">
-                <label for="box1">Username</label>
                 <input id="box1" type="text" required placeholder="Username">
+                <i class='bx bxs-user'></i>
             </div>
 
             <div class="input-box">
-                <label for="box2">Password</label>
                 <input id="box2" type="password" required placeholder="Password">
+                <i class='bx bxs-lock-alt'></i>
             </div>
 
             <div class="remember">
@@ -30,8 +31,7 @@
             <button type="submit" class="btn">Login</button>
 
             <div class="register">
-                <label>Don't have an account?</label>
-                <a href="#"> Register</a>
+                <p>Don't have an account?<a href="#"> Register</a></p>
             </div>
         </form>
         

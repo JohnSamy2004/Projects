@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Black.ttf') format('truetype');
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("photos/3401961.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.wrapper{
+    position: relative;
+    background-color: transparent;
+    border: 2px solid rgba(0, 0, 0, 0.144);
+    backdrop-filter: blur(12.5px);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    width: 420px;
+    border-radius: 15px;
+    padding: 30px 40px;
+    color:black;
+}
+
+.wrapper h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.input-box{
+    width: 100%;
+    height:50px;
+    margin: 30px 0;
+}
+
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 40px;
+    color: black;
+    font-size: 16px;
+    padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder{
+    color: black;
+}
+
+.input-box i{
+    position: absolute;
+    right: 60px;
+    transform: translateY(65%);
+    font-size: 22px;
+}
+
+.wrapper .remember {
+    display: flex;
+    justify-content: space-between;
+    margin: -15px 0 15px;
+}
+
+.remember a {
+    color: blue;
+    text-decoration: none;
+}
+
+.remember a:hover{
+    text-decoration: underline;
+}
+
+.wrapper .btn {
+    width: 100%;
+    height: 45px;
+    font-size: 16px;
+    font-weight: 900;
+    cursor: pointer;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+}
+
+.wrapper .register {
+    text-align: center;
+    font-size: 14.5px;
+    margin: 20px 0 15px;
+}
+.register p a{
+    color: blue;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.register a:hover {
+    text-decoration: underline;
+}
