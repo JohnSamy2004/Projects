@@ -1,0 +1,127 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+}
+body{
+    background: linear-gradient(#111, #222);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body::after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color: orangered;
+    clip-path: circle(50% at right 70%);
+}
+
+.container{
+    width: 80%;
+    height: 80%;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin: auto;
+    padding: 20px 0;
+}
+
+nav .logo{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 32px;
+    letter-spacing: 2.5px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin:5px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+.content{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 80%;
+    margin:auto;
+}
+
+.content .text h2{
+    color:beige;
+    font-size: 40px;
+    letter-spacing: 2px;
+    
+}
+.content .text p{
+    color:rgb(187, 203, 233);
+}
+
+.content .photo{
+    width: 40%;
+}
+
+.content .photo img{
+    width:400px
+}
+
+@media (min-width:950px) and (max-width:1150px){
+    
+    .content .photo img{
+        width:340px;
+    }
+}
+@media (min-width:746px) and (max-width:949px){
+    
+    .content .photo img{
+        width: 300px;
+        margin: auto;
+    }
+}
+
+@media (min-width:360) or (max-width: 745px){
+    .content, nav{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+    }
+    .content .photo, .content .text{
+        width: 100%
+    }
+    .content .text h2{
+        text-align: center;
+    }
+    
+    .content .photo img{
+        width: 100%;
+        height: auto;
+    }
+
+    body::after{
+        clip-path: circle(50% at bottom);
+    }
+
+
+}
