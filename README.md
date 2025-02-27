@@ -5,7 +5,7 @@ Hi there! 👋 I'm **John Samy**, a passionate and results-driven **ALX Certifie
 I thrive at the intersection of creativity and technology, transforming ideas into fully functional, user-friendly applications.  
 
 <p align="center">
-  <img src="https://alx-intranet-active-storage-production.s3.amazonaws.com/bk4mt7a37mxyd43a379xdxl81w94?response-content-disposition=inline%3B%20filename%3D%2217-short-specializations-certificate-john-fawzy-soliman.png%22%3B%20filename%2A%3DUTF-8%27%2717-short-specializations-certificate-john-fawzy-soliman.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250227T024443Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=b483894695f30145a7699d0166271a01f82c32157eab7ef6200f0de992683016" alt="ALX Certificate" width="500"/>
+  <img src="![ALX Certificate](https://github.com/user-attachments/assets/c2f7186a-fad7-4c55-aca3-357fe1797e7b)" alt="ALX Certificate" width="500"/>
 </p>
 
 ### 💡 I specialize in:  
