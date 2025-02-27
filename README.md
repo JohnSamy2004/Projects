@@ -19,7 +19,7 @@ I thrive at the intersection of creativity and technology, transforming ideas in
 I'm always excited to connect with like-minded professionals, collaborate on projects, and learn new technologies!  
 
 🔗 **LinkedIn:** [linkedin.com/in/JohnSamy2004](https://www.linkedin.com/in/JohnSamy2004/)  
-🐦 **Twitter/X:** [twitter.com/John_Samy2004](https://twitter.com/JohnSamy2004)  
+🐦 **Twitter/X:** [twitter.com/JohnSamy2004](https://twitter.com/JohnSamy2004)  
 
 ---
 
