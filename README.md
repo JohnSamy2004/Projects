@@ -4,9 +4,7 @@
 Hi there! 👋 I'm **John Samy**, a passionate and results-driven **ALX Certified FullStack Software Engineer** and **Graphic Designer**.  
 I thrive at the intersection of creativity and technology, transforming ideas into fully functional, user-friendly applications.  
 
-<p align="center">
-  <img src="https://imgur.com/a/SF1AKCs" alt="ALX Certificate" width="500"/>
-</p>
+![ALX Certificate](https://github.com/user-attachments/assets/606b9ce2-fc74-4859-adf5-ce6443aba169)
 
 ### 💡 I specialize in:  
 - 🔹 **Full-Stack Development** (JavaScript, Python, Flask, PostgreSQL)  
