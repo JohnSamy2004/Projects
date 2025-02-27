@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile!  
+# 🌟 Welcome to My GitHub Projects repository!  
 
 ## 🚀 About Me  
 Hi there! 👋 I'm **John Samy**, a passionate and results-driven **ALX Certified FullStack Software Engineer** and **Graphic Designer**.  
