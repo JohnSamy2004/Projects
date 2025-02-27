@@ -5,7 +5,7 @@ Hi there! 👋 I'm **John Samy**, a passionate and results-driven **ALX Certifie
 I thrive at the intersection of creativity and technology, transforming ideas into fully functional, user-friendly applications.  
 
 <p align="center">
-  <img src="![ALX Certificate](https://imgur.com/a/SF1AKCs)" alt="ALX Certificate" width="500"/>
+  <img src="https://imgur.com/a/SF1AKCs" alt="ALX Certificate" width="500"/>
 </p>
 
 ### 💡 I specialize in:  
