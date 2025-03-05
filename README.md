@@ -25,7 +25,7 @@ I'm always excited to connect with like-minded professionals, collaborate on pro
 
 ## 📌 Featured Projects  
 🚀 **Online Food Ordering System** – A dynamic web application for ordering food from multiple restaurants.  
-🔗 [GitHub Repository](https://github.com/your-repo)   
+🔗 [GitHub Repository](https://github.com/Tariq5mo/Foodify)   
 
 🚧 *More projects coming soon!*  
 
